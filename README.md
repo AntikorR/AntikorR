@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Antıkor</h1>
 <h3 align="center">Geliştirmeye meraklıyım</h3>
 
+- 🔭 I’m currently working on **testblog**
+
+- 🌱 I’m currently learning **Python**
+
+- 📝 I regularly write articles on [çok yakında](çok yakında)
+
+- ⚡ Fun fact **geliştirmek iyidir ✨**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
